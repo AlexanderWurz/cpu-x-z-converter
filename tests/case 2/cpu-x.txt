@@ -1,0 +1,111 @@
+  [1;34m>>>>>>>>>> CPU <<<<<<<<<<[0m
+
+	[1;34m***** Takte *****[0m
+Kerngeschwindigkeit: 4971 MHz
+   Multiplikator: 
+         Bustakt: 
+      Auslastung:   3,48 %
+
+    [1;34m####### #0 general #######[0m
+	[1;34m***** Prozessor *****[0m
+      Hersteller: AMD
+        Codename: Ryzen 9 (Vermeer)
+           Paket: AM4 (PGA-1331)
+     Technologie: 7 nm
+        Spannung: 
+   Spezifikation: AMD Ryzen 9 5950X 16-Core Processor
+         Familie: 0xF
+  Angez. Familie: 0x19
+          Modell: 0x1
+   Angez. Modell: 0x21
+        Stepping: 2
+           Temp.: 37,62°C
+   Instruktionen: SMT, MMX(+), SSE(1, 2, 3, 3S, 4.1, 4.2, 4A), AVX(1, 2), FMA(3), AES, CLMUL, RdRand, SHA, AMD-V, x86-64
+
+	[1;34m***** Caches *****[0m
+        L1 Daten: 16 x   32 kB,  8-fach
+        L1 Inst.: 16 x   32 kB,  8-fach
+         Level 2: 16 x  512 kB,  8-fach
+         Level 3:  2 x   32 MB, 16-fach
+
+	[1;34m***** Anzahl *****[0m
+           Kerne: 16
+         Threads: 32
+
+
+  [1;34m>>>>>>>>>> Caches <<<<<<<<<<[0m
+
+    [1;34m####### #0 general #######[0m
+	[1;34m***** L1-Cache *****[0m
+         Größe: 16 x   32 kB,  8-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 148086,50 MB/s
+
+	[1;34m***** L2-Cache *****[0m
+         Größe: 16 x  512 kB,  8-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 122502,30 MB/s
+
+	[1;34m***** L3-Cache *****[0m
+         Größe:  2 x   32 MB, 16-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 102582,00 MB/s
+
+
+  [1;34m>>>>>>>>>> Motherboard <<<<<<<<<<[0m
+
+	[1;34m***** Motherboard *****[0m
+      Hersteller: ASUSTeK COMPUTER INC.
+          Modell: ROG STRIX X570-E GAMING
+        Revision: Rev X.0x
+
+	[1;34m***** BIOS *****[0m
+           Marke: American Megatrends Inc.
+         Version: 4408
+           Datum: 10/27/2022
+     ROM-Größe: 
+          EFI PK: 
+
+	[1;34m***** Chipsatz *****[0m
+      Hersteller: Advanced Micro Devices, Inc. [AMD]
+          Modell: FCH LPC Bridge
+
+
+  [1;34m>>>>>>>>>> System <<<<<<<<<<[0m
+
+	[1;34m***** Betriebssystem *****[0m
+            Name: Debian GNU/Linux 13 (trixie)
+          Kernel: Linux 6.12.38+deb13-amd64
+        Hostname: debian13
+    Betriebszeit: 0 Tage, 0 Stunden, 6 Minuten, 24 Sekunden
+
+	[1;34m***** Speicher *****[0m
+       Verwendet:  9,96 GB / 65,75 GB
+          Puffer:  0,15 GB / 65,75 GB
+Zwischengespeichert:  4,05 GB / 65,75 GB
+            Frei: 52,90 GB / 65,75 GB
+            Swap:  0,00 GB / 48,83 GB
+
+
+  [1;34m>>>>>>>>>> Grafik <<<<<<<<<<[0m
+
+	[1;34m***** Karte 0 *****[0m
+      Hersteller: AMD
+         Treiber: amdgpu
+     UMD-Version: Mesa 25.0.7-2
+          Modell: Navi 32 [Radeon RX 7700 XT / 7800 XT]
+   Recheneinheit: 
+  Gerätekennung: 0x1002:0x747E
+   VBIOS-Version: 115-D712BP2-100
+   Schnittstelle: PCIe Gen4x16 (aktuell) / Gen4x16 (max)
+      Temperatur: 36,00°C
+      Auslastung: 5%
+    Kernspannung: 0,71 V
+Durchschn. Energie: 29,00 W
+        Kerntakt: 82 MHz
+    Speichertakt: 772 MHz
+Verwendeter Speicher: 1808 MiB / 16368 MiB
+Änderbare BAR-Größe: Aktiviert
+       Vulkan RT: Aktiviert
+  OpenGL-Version: 4.6 (Core) / 4.6 (Compatibility)
+  Vulkan-Version: 1.4.305
+  OpenCL-Version: 
+
+

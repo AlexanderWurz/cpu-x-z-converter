@@ -1,0 +1,163 @@
+[1;33mEs gibt keine Plattform mit OpenCL Unterstützung (CL_PLATFORM_NOT_FOUND_KHR)[0m
+  [1;34m>>>>>>>>>> CPU <<<<<<<<<<[0m
+
+	[1;34m***** Takte *****[0m
+Kerngeschwindigkeit: 1750 MHz
+   Multiplikator: x17,5 (22-35)
+         Bustakt: 99,80 MHz
+      Auslastung:   1,60 %
+
+    [1;34m####### #0 general #######[0m
+	[1;34m***** Prozessor *****[0m
+      Hersteller: AMD
+        Codename: Ryzen 5 (Vermeer)
+           Paket: AM4
+     Technologie: TSMC N7FF
+        Spannung: 1,100 V
+   Spezifikation: AMD Ryzen 5 5600 6-Core Processor
+         Familie: 0xF
+  Angez. Familie: 0x19
+          Modell: 0x1
+   Angez. Modell: 0x21
+        Stepping: 2
+           Temp.: 26,38°C
+   Instruktionen: SMT, MMX(+), SSE(1, 2, 3, 3S, 4.1, 4.2, 4A), AVX(1, 2), FMA(3), AES, CLMUL, RdRand, SHA, AMD-V, x86-64
+
+	[1;34m***** Caches *****[0m
+        L1 Daten:  6 x   32 kB,  8-fach
+        L1 Inst.:  6 x   32 kB,  8-fach
+         Level 2:  6 x  512 kB,  8-fach
+         Level 3: 32 MB, 16-fach
+
+	[1;34m***** Anzahl *****[0m
+           Kerne: 6
+         Threads: 12
+
+
+  [1;34m>>>>>>>>>> Caches <<<<<<<<<<[0m
+
+    [1;34m####### #0 general #######[0m
+	[1;34m***** L1-Cache *****[0m
+         Größe:  6 x   32 kB,  8-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 97529,10 MB/s
+
+	[1;34m***** L2-Cache *****[0m
+         Größe:  6 x  512 kB,  8-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 70422,50 MB/s
+
+	[1;34m***** L3-Cache *****[0m
+         Größe: 32 MB, 16-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 66028,20 MB/s
+
+
+  [1;34m>>>>>>>>>> Motherboard <<<<<<<<<<[0m
+
+	[1;34m***** Motherboard *****[0m
+      Hersteller: ASRock
+          Modell: B450 Pro4
+        Revision:                       
+
+	[1;34m***** BIOS *****[0m
+           Marke: American Megatrends Inc.
+         Version: P10.41
+           Datum: 02/20/2025
+     ROM-Größe: 64 @KiB@ / 16 @MiB@
+          EFI PK: 
+
+	[1;34m***** Chipsatz *****[0m
+      Hersteller: Advanced Micro Devices, Inc. [AMD]
+          Modell: FCH LPC Bridge
+
+
+  [1;34m>>>>>>>>>> Speicher <<<<<<<<<<[0m
+
+	[1;34m***** Stick 0 *****[0m
+      Hersteller: Unknown
+     Teilenummer: F4-3000C16-8GISB
+             Typ: DIMM DDR4
+       Typdetail: Synchronous Unbuffered (Unregistered)
+Gerätepositionsanzeiger: DIMM 0
+Bankpositionsanzeiger: P0 CHANNEL A
+           Reihe: 1
+         Größe: 8 @GiB@
+ Geschwindigkeit: 3000 MT/s (konfiguriert) / 3000 MT/s (max)
+        Spannung: 1.2 V (min) / 1.2 V (konfiguriert) / 1.2 V (max)
+
+	[1;34m***** Stick 1 *****[0m
+      Hersteller: Unknown
+     Teilenummer: F4-3000C16-8GISB
+             Typ: DIMM DDR4
+       Typdetail: Synchronous Unbuffered (Unregistered)
+Gerätepositionsanzeiger: DIMM 1
+Bankpositionsanzeiger: P0 CHANNEL A
+           Reihe: 1
+         Größe: 8 @GiB@
+ Geschwindigkeit: 3000 MT/s (konfiguriert) / 3000 MT/s (max)
+        Spannung: 1.2 V (min) / 1.2 V (konfiguriert) / 1.2 V (max)
+
+	[1;34m***** Stick 2 *****[0m
+      Hersteller: Unknown
+     Teilenummer: F4-3000C16-8GISB
+             Typ: DIMM DDR4
+       Typdetail: Synchronous Unbuffered (Unregistered)
+Gerätepositionsanzeiger: DIMM 0
+Bankpositionsanzeiger: P0 CHANNEL B
+           Reihe: 1
+         Größe: 8 @GiB@
+ Geschwindigkeit: 3000 MT/s (konfiguriert) / 3000 MT/s (max)
+        Spannung: 1.2 V (min) / 1.2 V (konfiguriert) / 1.2 V (max)
+
+	[1;34m***** Stick 3 *****[0m
+      Hersteller: Unknown
+     Teilenummer: F4-3000C16-8GISB
+             Typ: DIMM DDR4
+       Typdetail: Synchronous Unbuffered (Unregistered)
+Gerätepositionsanzeiger: DIMM 1
+Bankpositionsanzeiger: P0 CHANNEL B
+           Reihe: 1
+         Größe: 8 @GiB@
+ Geschwindigkeit: 3000 MT/s (konfiguriert) / 3000 MT/s (max)
+        Spannung: 1.2 V (min) / 1.2 V (konfiguriert) / 1.2 V (max)
+
+
+  [1;34m>>>>>>>>>> System <<<<<<<<<<[0m
+
+	[1;34m***** Betriebssystem *****[0m
+            Name: Manjaro Linux
+          Kernel: Linux 6.16.8-1-MANJARO
+        Hostname: zik-rogallyrc71lrc71l
+    Betriebszeit: 0 Tage, 0 Stunden, 3 Minuten, 52 Sekunden
+
+	[1;34m***** Speicher *****[0m
+       Verwendet:  1,61 GiB / 31,26 GiB
+          Puffer:  0,10 GiB / 31,26 GiB
+Zwischengespeichert:  0,70 GiB / 31,26 GiB
+            Frei: 29,24 GiB / 31,26 GiB
+            Swap: 0,00 GiB / 8,80 GiB
+
+
+  [1;34m>>>>>>>>>> Grafik <<<<<<<<<<[0m
+
+	[1;34m***** Karte 0 *****[0m
+      Hersteller: AMD
+         Treiber: amdgpu
+     UMD-Version: Mesa 25.2.3-arch1.2
+          Modell: Navi 31 [Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M]
+   Recheneinheit: 
+  Gerätekennung: 0x1002:0x744C
+   VBIOS-Version: 113-D7120100-P03
+   Schnittstelle: PCIe Gen3x16 (aktuell) / Gen3x16 (max)
+      Temperatur: 29,00°C
+      Auslastung: 1%
+    Kernspannung: 0,15 V
+Durchschn. Energie: 15,00 W
+        Kerntakt: 8 MHz
+    Speichertakt: 456 MHz
+Verwendeter Speicher: 251 MiB / 16368 MiB
+Änderbare BAR-Größe: Aktiviert
+       Vulkan RT: Aktiviert
+  OpenGL-Version: 4.6 (Core) / 4.6 (Compatibility)
+  Vulkan-Version: 1.4.318
+  OpenCL-Version: 
+
+

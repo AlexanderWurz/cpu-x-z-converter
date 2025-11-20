@@ -1,0 +1,141 @@
+[0mWriting daemon log to '/tmp/cpu-x-daemon.log' file...[0m
+[1;33mDer OpenCL Treiber für 'AMD Radeon RX 9070 XT (radeonsi, gfx1201, LLVM 21.1.3, DRM 3.64, 6.17.5-2-cachyos) OpenCL 3.0 ' unterstützt CL_DEVICE_TOPOLOGY_AMD (CL_INVALID_VALUE) nicht[0m
+[1;33mOpenCL-Treiber für Hersteller AMD nicht gefunden[0m
+  [1;34m>>>>>>>>>> CPU <<<<<<<<<<[0m
+
+	[1;34m***** Takte *****[0m
+Kerngeschwindigkeit: 3361 MHz
+   Multiplikator: x33,6 (22-34)
+         Bustakt: 99,97 MHz
+      Auslastung:   4,84 %
+
+    [1;34m####### #0 general #######[0m
+	[1;34m***** Prozessor *****[0m
+      Hersteller: AMD
+        Codename: Ryzen 7 (Vermeer)
+           Paket: AM4
+     Technologie: TSMC N7FF
+        Spannung: 1,000 V
+   Spezifikation: AMD Ryzen 7 5800X3D 8-Core Processor
+         Familie: 0xF
+  Angez. Familie: 0x19
+          Modell: 0x1
+   Angez. Modell: 0x21
+        Stepping: 2
+           Temp.: 38,25°C
+   Instruktionen: SMT, MMX(+), SSE(1, 2, 3, 3S, 4.1, 4.2, 4A), AVX(1, 2), FMA(3), AES, CLMUL, RdRand, SHA, AMD-V, x86-64
+
+	[1;34m***** Caches *****[0m
+        L1 Daten:  8 x   32 kB,  8-fach
+        L1 Inst.:  8 x   32 kB,  8-fach
+         Level 2:  8 x  512 kB,  8-fach
+         Level 3: 96 MB, 16-fach
+
+	[1;34m***** Anzahl *****[0m
+           Kerne: 8
+         Threads: 16
+
+
+  [1;34m>>>>>>>>>> Caches <<<<<<<<<<[0m
+
+    [1;34m####### #0 general #######[0m
+	[1;34m***** L1-Cache *****[0m
+         Größe:  8 x   32 kB,  8-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 74381,30 MB/s
+
+	[1;34m***** L2-Cache *****[0m
+         Größe:  8 x  512 kB,  8-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 53391,90 MB/s
+
+	[1;34m***** L3-Cache *****[0m
+         Größe: 96 MB, 16-fach assoziativ, 64-Bytes Zeilengröße
+ Geschwindigkeit: 51571,60 MB/s
+
+
+  [1;34m>>>>>>>>>> Motherboard <<<<<<<<<<[0m
+
+	[1;34m***** Motherboard *****[0m
+      Hersteller: Gigabyte Technology Co., Ltd.
+          Modell: X570S UD
+        Revision: x.x
+
+	[1;34m***** BIOS *****[0m
+           Marke: American Megatrends International, LLC.
+         Version: F5
+           Datum: 06/08/2023
+     ROM-Größe: 64 @KiB@ / 32 @MiB@
+          EFI PK: GIGABYTE (Betreff) / GIGABYTE (Aussteller)
+
+	[1;34m***** Chipsatz *****[0m
+      Hersteller: Advanced Micro Devices, Inc. [AMD]
+          Modell: FCH LPC Bridge
+
+
+  [1;34m>>>>>>>>>> Speicher <<<<<<<<<<[0m
+
+	[1;34m***** Stick 0 *****[0m
+      Hersteller: Unknown
+     Teilenummer: BLS16G4D32AESC.M16FE
+             Typ: DIMM DDR4
+       Typdetail: Synchronous Unbuffered (Unregistered)
+Gerätepositionsanzeiger: DIMM 1
+Bankpositionsanzeiger: P0 CHANNEL A
+           Reihe: 2
+         Größe: 16 @GiB@
+ Geschwindigkeit: 3200 MT/s (konfiguriert) / 3200 MT/s (max)
+        Spannung: 1.2 V (min) / 1.2 V (konfiguriert) / 1.2 V (max)
+
+	[1;34m***** Stick 1 *****[0m
+      Hersteller: Unknown
+     Teilenummer: BLS16G4D32AESC.M16FE
+             Typ: DIMM DDR4
+       Typdetail: Synchronous Unbuffered (Unregistered)
+Gerätepositionsanzeiger: DIMM 1
+Bankpositionsanzeiger: P0 CHANNEL B
+           Reihe: 2
+         Größe: 16 @GiB@
+ Geschwindigkeit: 3200 MT/s (konfiguriert) / 3200 MT/s (max)
+        Spannung: 1.2 V (min) / 1.2 V (konfiguriert) / 1.2 V (max)
+
+
+  [1;34m>>>>>>>>>> System <<<<<<<<<<[0m
+
+	[1;34m***** Betriebssystem *****[0m
+            Name: CachyOS
+          Kernel: Linux 6.17.5-2-cachyos
+        Hostname: URZAS-NEMESIS
+    Betriebszeit: 0 Tage, 6 Stunden, 52 Minuten, 58 Sekunden
+
+	[1;34m***** Speicher *****[0m
+       Verwendet:  6,55 GiB / 31,24 GiB
+          Puffer:  0,58 GiB / 31,24 GiB
+Zwischengespeichert: 16,19 GiB / 31,24 GiB
+            Frei:  8,28 GiB / 31,24 GiB
+            Swap:  0,00 GiB / 31,24 GiB
+
+
+  [1;34m>>>>>>>>>> Grafik <<<<<<<<<<[0m
+
+	[1;34m***** Karte 0 *****[0m
+      Hersteller: AMD
+         Treiber: amdgpu
+     UMD-Version: Mesa 25.2.5-cachyos1.5
+          Modell: Navi 48 [Radeon RX 9070/9070 XT/9070 GRE]
+   Recheneinheit: 
+  Gerätekennung: 0x1002:0x7550
+   VBIOS-Version: 113-EXT108798-100
+   Schnittstelle: PCIe Gen4x16 (aktuell) / Gen4x16 (max)
+      Temperatur: 53,00°C
+      Auslastung: 5%
+    Kernspannung: 0,29 V
+Durchschn. Energie: 20,00 W
+        Kerntakt: 300 MHz
+    Speichertakt: 96 MHz
+Verwendeter Speicher: 2091 MiB / 16304 MiB
+Änderbare BAR-Größe: Aktiviert
+       Vulkan RT: Aktiviert
+  OpenGL-Version: 4.6 (Core) / 4.6 (Compatibility)
+  Vulkan-Version: 1.4.318
+  OpenCL-Version: 3.0 
+
+
